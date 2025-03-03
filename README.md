@@ -1,4 +1,5 @@
-原仓库：https://github.com/Jaydooooooo/Port-forwarding
+复刻仓库：https://github.com/qqrrooty/EZrealm
+原始仓库：https://github.com/Jaydooooooo/Port-forwarding
 
 2025/1/29更新：半重做了脚本
 
