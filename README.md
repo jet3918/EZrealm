@@ -1,11 +1,11 @@
 ---
 
-# 源仓库https://github.com/247like/linux-ssh-init-sh
+# 源仓库https://github.com/qqrrooty/EZrealm
 
 ---
 
 
-原仓库：[[https://github.com/Jaydooooooo/Port-forwarding](https://github.com/qqrrooty/EZrealm)](https://github.com/qqrrooty/EZrealm)
+原仓库：https://github.com/qqrrooty/EZrealm
 
 
 2026/1/11更新：如下是Alpine专用realm脚本
